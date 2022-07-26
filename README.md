@@ -1,4 +1,4 @@
-# cmpe160-p2-ShipsAndPorts
+# CmpE160 - Project 2 - Ships and Ports
 Ships and Ports Simulation project I build during the Cmpe160 lectures in Spring 2021.
 
 Project descriptions can be accessed through the pdf file in /WebContent/
